@@ -1,4 +1,4 @@
-This project is a classic Snake game implemented on an ESP32 microcontroller using an 8x8 LED dot matrix display (MAX7219 module) and a joystick for control. The game includes additional hardware features such as LEDs and buttons for reset, pause, and game events.
+This project is a classic Snake game implemented on an ESP32 microcontroller using an 8x8 LED dot matrix display (MAX7219 module) and a joystick for control. The game includes additional hardware features such as LEDs and buttons for reset, pause and game events.
 
 # Game Over State
 
