@@ -4,9 +4,7 @@ This project is a classic Snake game implemented on an ESP32 microcontroller usi
 
 Snake collides with itself → game resets and red LED turns on.
 
-<p align="center">
-  <img src="images/red_led.jpeg" width="300"/>
-</p>
+<img src="images/red_led.jpeg" width="300"/>
 
 ---
 
@@ -14,9 +12,7 @@ Snake collides with itself → game resets and red LED turns on.
 
 Snake eats bait → grows and green LED flashes.
 
-<p align="center">
-  <img src="images/green_led.jpeg" width="300"/>
-</p>
+<img src="images/green_led.jpeg" width="300"/>
 
 ---
 
@@ -24,7 +20,6 @@ Snake eats bait → grows and green LED flashes.
 
 Game is paused by button → yellow LED turns on.
 
-<p align="center">
-  <img src="images/pause_state_and_yellow_led.jpeg" width="300"/>
-</p>
+<img src="images/pause_state_and_yellow_led.jpeg" width="300"/>
+
 
